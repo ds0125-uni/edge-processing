@@ -1,6 +1,6 @@
 ### Default Firmware
 The easiest way to use OpenEarable is with the provided App sketch. 
-Use this PlatformUI Project as a template.
+Use this [PlatformIO](https://platformio.org) project as a template.
 
 
 The absolute minimum needed to run the code successfully is the following:
