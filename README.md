@@ -1,5 +1,6 @@
-### Default Firmware
-The easiest way to compile and deploy the OpenEarable firmware is this App sketch for [PlatformIO](https://platformio.org). 
+### open-earable-PlatformIO
+
+The easiest way to compile and deploy the OpenEarable firmware is this [PlatformIO](https://platformio.org) wrapper firmware. 
 Before you start, please make sure you have setup [PlatformIO for VSCode](https://platformio.org/install/ide?install=vscode).
 
 
